@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "Location": {
+            "value": "germanywestcentral"
+        },
+        "NamePrefix": {
+            "value": "AZ21-OF-WV"
+        },
+        "NumberOfVms": {
+            "value": 1
+        },
+        "ScriptUri": {
+            "value": "http://de01-infweb01.corp.int/SERVER/avd/avd.json"
+        },
+        "VirtualMachineIndex": {
+            "value": 0
+        }
+    }
+}
