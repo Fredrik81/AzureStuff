@@ -12,7 +12,7 @@
             "value": 1
         },
         "ScriptUri": {
-            "value": "http://de01-infweb01.corp.int/SERVER/avd/avd.json"
+            "value": "http://de01-infweb01.corp.int/SERVER/avd/avd.ps1"
         },
         "VirtualMachineIndex": {
             "value": 0
